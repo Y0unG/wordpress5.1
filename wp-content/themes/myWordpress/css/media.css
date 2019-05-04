@@ -1,0 +1,12 @@
+
+@media screen and (max-width: 960px) {
+    body p {
+        font-size: 10px !important;
+    }
+    body h1 {
+        font-size: 14px !important;
+    }
+    body a {
+        font-size: 10px !important;
+    }
+}
